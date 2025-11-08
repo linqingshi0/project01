@@ -1,0 +1,13 @@
+node_modules
+.pnpm-store
+.DS_Store
+.env
+.env.local
+coverage
+/dist
+apps/web/dist
+apps/api/dist
+*.log
+.idea
+.vscode
+mongo_data
